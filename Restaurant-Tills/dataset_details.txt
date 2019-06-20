@@ -1,0 +1,10 @@
+dataset.csv
+
+itemid, timestamp, transactionid, productid
+
+itemid - a unique identifier for each line
+timestamp - when the item was purchased (not needed)
+transaction - the transaction to which this purchase belonged.
+productid - the productid of the product purchased.
+
+The details of pricing,names,payments,change given have been removed.
